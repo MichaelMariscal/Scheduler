@@ -27,7 +27,10 @@ For this program, I used Codepen.io since it is a web developing website. I like
 
 # Code Source 
 Javascript
-'''
+
+
+
+
 <div class="timetable">
   <table class="button-options">
     <tr>
@@ -143,7 +146,14 @@ Javascript
 
 
 """///
+
+
+
 CSS
+
+
+
+
 """///
 .timetable {
   position: absolute;
@@ -263,7 +273,18 @@ CSS
 .bookingSelector .time.slot.active{background:gold;color:#222;}
 
 """///
+
+
+
+
+
+
+
 Javascript
+
+
+
+
 """///
 .timetable {
   position: absolute;
