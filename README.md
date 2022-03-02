@@ -26,7 +26,7 @@ For this program, I used Codepen.io since it is a web developing website. I like
 
 
 # Code Source 
-Javascript
+HTML
 
 
 
