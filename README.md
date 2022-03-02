@@ -6,7 +6,7 @@ This is simple scheduling application that I designed to be used in a setting wh
 
 The reason I wrote this was to start a program that I can expand on and further deliver a functioning product to customers who uses a weekly scheduler. Such as hair stylists, nail techs, etc. My wife is a nail technician and having anywhere from 20-35 clients at a time, scheduling can be difficult since she has to plan out in advance and I wanted to create something that can ease that proccess. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dv3b_XWw32s)
 
 # Development Environment
 
