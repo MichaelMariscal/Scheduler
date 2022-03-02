@@ -142,9 +142,9 @@ Javascript
 </div>
 
 
-'''
+"""///
 CSS
-'''
+"""///
 .timetable {
   position: absolute;
   top: 0;
@@ -262,9 +262,9 @@ CSS
 
 .bookingSelector .time.slot.active{background:gold;color:#222;}
 
-'''
+"""///
 Javascript
-'''
+"""///
 .timetable {
   position: absolute;
   top: 0;
@@ -383,5 +383,5 @@ Javascript
 .filmSelector .time.slot.active{background:gold;color:#222;}
 
 
-'''
+"""///
 
